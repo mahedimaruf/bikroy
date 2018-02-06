@@ -5,7 +5,7 @@ PHP version 5.4.0 or higher
 ## Installation with composer
 It is also possible to install library via composer
 
-`composer require mahedimaruf/bikroy`
+`composer require mahedimaruf/bikroy=dev-master`
 
 ## Example usage
 ```php
