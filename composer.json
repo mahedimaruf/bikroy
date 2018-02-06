@@ -8,6 +8,7 @@
             "email": "maruf.bgt@gmail.com"
         }
 ],
+ "minimum-stability": "dev",
     "require": {
         "fabpot/goutte": "^3.2",
 	 "php": ">=5.4.0"
