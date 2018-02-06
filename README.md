@@ -8,7 +8,8 @@ It is also possible to install library via composer
 `composer require mahedimaruf/bikroy`
 
 ## Example usage
-```require_once 'vendor/autoload.php';
+```php
+require_once 'vendor/autoload.php';
 
 // import goutte
 use Goutte\Client;
