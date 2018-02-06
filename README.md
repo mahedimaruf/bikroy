@@ -29,7 +29,7 @@ while ($nextlink) {
     $results = $bikroy->scrap($nextlink);
     var_dump($results['details']);
 		
-		//Set next page link. So script it continue scraping until there is no next link!
+//Set next page link. So script will continue scraping until there is no next link!
     $nextlink = $results['nextlink'];
 }
 ```
